@@ -5,7 +5,7 @@
   vars:
     sg_id: sg-06b8d4637af1b108f
     ami_id: ami-0220d79f3f480ecf5
-    domain_name: daws88s.online
+    domain_name: bunnyone.online
     env: dev
     instances:
     - mongodb
